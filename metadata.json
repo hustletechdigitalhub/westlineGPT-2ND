@@ -1,0 +1,8 @@
+{
+  "name": "WestlineGPT v1",
+  "description": "An AI-powered assistant designed to support students, creators, and digital learners in the Westline Techlabs ecosystem — helping them learn digital skills, explore AI tools, and get creative project guidance.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
